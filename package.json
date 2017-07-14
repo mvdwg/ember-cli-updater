@@ -10,12 +10,12 @@
     "command"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Santiago Ferreira",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/mvdwg/ember-cli-updater.git",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
