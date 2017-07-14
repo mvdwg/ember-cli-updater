@@ -1,26 +1,23 @@
 # ember-cli-updater
 
-This README outlines the details of collaborating on this Ember addon.
+This [ember-cli](https://ember-cli.com/) addon helps you update your ember-cli application or addon.
+
+## Synopsis
+
+This command would update your current application/addon's package.json file from its current version (read from the package.json) to ember-cli v2.14.0.
+
+```
+$ ember update v2.14.0
+```
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-updater`
-* `npm install`
+```
+$ ember install ember-cli-updater
+```
 
-## Running
+## License
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+ember-cli-updater is licensed under the MIT license.
 
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+See [LICENSE](./LICENSE) for the full license text.
