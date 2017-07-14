@@ -1,9 +1,13 @@
 {
   "name": "ember-cli-updater",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "ember-cli command to help you upgrade your ember-cli addon and app.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-cli",
+    "updater",
+    "tool",
+    "command"
   ],
   "license": "MIT",
   "author": "",
@@ -18,7 +22,11 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.0.0"
+    "deep-assign": "^2.0.0",
+    "deep-diff": "^0.3.8",
+    "ember-cli-babel": "^6.0.0",
+    "node-fetch": "^1.7.1",
+    "rsvp": "^3.6.1"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
