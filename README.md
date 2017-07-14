@@ -2,15 +2,6 @@
 
 This [ember-cli](https://ember-cli.com/) addon helps you update your ember-cli application or addon.
 
->        (   (                      (
->        )\ ))\ )   (      *   )    )\ )
->     ( (()/(()/(   )\   ` )  /((  (()/(
->     )\ /(_))(_)|(((_)(  ( )(_))\  /(_))
->  _ ((_|_))(_))_ )\ _ )\(_(_()|(_)(_))
-> | | | | _ \|   \(_)_\(_)_   _| __| _ \
-> | |_| |  _/| |) |/ _ \   | | | _||   /
->  \___/|_|  |___//_/ \_\  |_| |___|_|_\
-
 ## Synopsis
 
 This command would update your current application/addon's package.json file from its current version (read from the package.json) to ember-cli v2.14.0.
