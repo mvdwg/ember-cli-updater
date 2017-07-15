@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-updater",
-  "version": "0.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "ember-cli command to help you upgrade your ember-cli addon and app.",
   "keywords": [
     "ember-addon",
