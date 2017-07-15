@@ -27,6 +27,7 @@
     "deep-diff": "^0.3.8",
     "ember-cli-babel": "^6.0.0",
     "node-fetch": "^1.7.1",
+    "p-series": "^1.0.0",
     "rsvp": "^3.6.1",
     "supports-color": "^4.2.0"
   },
