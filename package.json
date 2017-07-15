@@ -29,6 +29,7 @@
     "node-fetch": "^1.7.1",
     "p-series": "^1.0.0",
     "rsvp": "^3.6.1",
+    "sort-package-json": "^1.7.0",
     "supports-color": "^4.2.0"
   },
   "devDependencies": {
