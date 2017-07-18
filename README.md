@@ -6,7 +6,7 @@ The idea of this addon is to automate some parts of the upgrade process so it's 
 
 __Current features__
 
-* Updates you package.json keeping your customizations
+* Updates your package.json keeping your customizations
 
 __Planned features__
 
